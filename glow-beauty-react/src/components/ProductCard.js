@@ -23,7 +23,7 @@ export default function ProductCard({ product }) {
               borderRadius: '20px' 
             }}
           >
-            Shtuar në shportë!
+            Added to Cart!
           </Alert>
         </div>
       )}
