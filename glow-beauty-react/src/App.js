@@ -14,9 +14,9 @@ export default function App() {
       <main>
         <Hero />
         <ShopSection />
-        <Deals />
-        <PromoBanner />
+        <PromoBanner />        
         <NewArrivals />
+        <Deals />
         <section className="pt-5 pb-0">
            <Newsletter />
         </section>
