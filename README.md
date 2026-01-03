@@ -1,5 +1,6 @@
-Glow Beauty - Online Beauty Store Ky është një projekt Front-End modern i ndërtuar me React dhe React Bootstrap. 
-Faqja paraqet një dyqan online për produkte bukurie (skincare), duke u fokusuar në një dizajn minimalist, të pastër dhe plotësisht responsiv. 
+Glow Beauty - Online Beauty Store 
+
+Ky është një projekt Front-End modern i ndërtuar me React dhe React Bootstrap. Faqja paraqet një dyqan online për produkte bukurie (skincare), duke u fokusuar në një dizajn minimalist, të pastër dhe plotësisht responsiv. 
 
 Përmbajtja e projektit
 
